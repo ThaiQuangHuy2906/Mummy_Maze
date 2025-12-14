@@ -1,0 +1,62 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directory
+build/
+!build/.gitkeep
+
+# VS Code
+.vscode/
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/c_cpp_properties.json
+
+# MinGW/GCC
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency files
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Save files (game progress)
+save_progress.txt
+savegame.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Log files
+*.log
+
+# IDE files
+*.cbp
+*.layout
+*.depend
+.idea/
+*.sublime-*
