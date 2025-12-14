@@ -167,7 +167,7 @@ mummy-maze-clone/
 
 ## 📸 Screenshots
 
-> Add your game screenshots here!
+<img width="743" height="759" alt="image" src="https://github.com/user-attachments/assets/51433f04-f15d-4db1-9783-1dc43ed03be4" />
 
 ---
 
