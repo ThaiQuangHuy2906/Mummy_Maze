@@ -9,7 +9,7 @@
 **Course:** Introduction to Computer Science
 **Class:** 25C11 - Faculty of Information Technology - HCMUS
 **Group:** 11
-**Academic Year:** 2024-2025
+**Academic Year:** 2025-2026
 
 ---
 
@@ -19,7 +19,7 @@
 |------------|------|------|
 | 24127177 | Thái Quang Huy | Developer |
 | 24127205 | Nguyễn Văn Minh | Developer |
-| 24127249 | Mai Phương Thùy | Developer |
+| 24127249 | Mai Phương Thùy | Report |
 | 25127444 | Lê Kim Phúc Nhật | Developer |
 
 ---
