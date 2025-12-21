@@ -174,8 +174,6 @@ Mummy_Maze/
 
 ![Screenshot](assets/images/screenshot.png)
 
-Place screenshots in `assets/images/` and update the file name above.
-
 ---
 
 ## 🎓 Educational Objectives
