@@ -19,7 +19,7 @@
 |------------|------|------|
 | 24127177 | Thái Quang Huy | Developer |
 | 24127205 | Nguyễn Văn Minh | Developer |
-| 24127249 | Mai Phương Thùy | Report |
+| 24127249 | Mai Phương Thùy | Developer |
 | 25127444 | Lê Kim Phúc Nhật | Developer |
 
 ---
