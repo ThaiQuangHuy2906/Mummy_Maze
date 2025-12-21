@@ -68,8 +68,8 @@ Mummy Maze Clone is an educational recreation of PopCap's classic puzzle game. N
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mummy-maze-clone.git
-   cd mummy-maze-clone
+   git clone https://github.com/ThaiQuangHuy2906/Mummy_Maze.git
+   cd Mummy_Maze
    ```
 
 2. **Install MinGW-w64**
@@ -85,6 +85,11 @@ Mummy Maze Clone is an educational recreation of PopCap's classic puzzle game. N
 4. **Build the project**
    - Press `Ctrl + Shift + B`
    - Or: `Terminal` → `Run Build Task` → `Build C++/SFML Project`
+
+   - Or build manually (example using MinGW-w64):
+   ```bash
+   g++ -g -std=c++17 src/*.cpp -o build/mummymaze.exe -Iinclude -Ilib/SFML-2.6.2/include -Llib/SFML-2.6.2/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+   ```
 
 5. **Run the game**
    - Press `F5` (Debug mode)
@@ -121,7 +126,7 @@ Mummy Maze Clone is an educational recreation of PopCap's classic puzzle game. N
 ## 🏗️ Project Structure
 
 ```
-mummy-maze-clone/
+Mummy_Maze/
 ├── .vscode/              # VS Code configuration
 ├── assets/               # Game assets
 │   ├── audio/           # Sound effects & music
@@ -167,7 +172,9 @@ mummy-maze-clone/
 
 ## 📸 Screenshots
 
-<img width="743" height="759" alt="image" src="https://github.com/user-attachments/assets/51433f04-f15d-4db1-9783-1dc43ed03be4" />
+![Screenshot](assets/images/screenshot.png)
+
+Place screenshots in `assets/images/` and update the file name above.
 
 ---
 
